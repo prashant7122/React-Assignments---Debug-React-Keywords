@@ -49,5 +49,13 @@
     "webpack": "^4.44.2",
     "webpack-dev-server": "^3.11.0",
     "xml-js": "^1.6.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashant7122/React-Assignments---Debug-React-Keywords.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prashant7122/React-Assignments---Debug-React-Keywords/issues"
+  },
+  "homepage": "https://github.com/prashant7122/React-Assignments---Debug-React-Keywords#readme"
 }
